@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "product": "里会音乐",
+  "version": "0.1.0-test",
+  "channel": "test",
+  "installerUrl": "https://github.com/luhe18068-source/lihui-music-runtime/releases/download/app-0.1.0-test/LihuiMusic-Setup-0.1.0-test.exe",
+  "sha256": "REPLACE_WITH_RELEASE_SHA256",
+  "size": 0
+}
