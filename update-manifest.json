@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "product": "里会音乐",
-  "version": "0.1.0-test",
-  "channel": "test",
-  "installerUrl": "https://github.com/luhe18068-source/lihui-music-runtime/releases/download/app-0.1.0-test/LihuiMusic-Setup-0.1.0-test-20260929-cloud-update.exe",
-  "sha256": "a2f05b9252d78c80c0932162c1511c1a6ad0feee40bbb1f2d2225244170fafa9",
-  "size": 117739347
+  "product": "LihuiMusic",
+  "version": "1.3.0",
+  "published": true,
+  "installerUrl": "https://github.com/luhe18068-source/lihui-music-runtime/releases/download/app-1.3.0-20261005-final/LihuiMusic-Setup-1.3.0-github-20261005d.exe",
+  "bytes": 201569507,
+  "sha256": "3d7f1310a5dca7380d9e82f8df47d51da950f18dd6dcf5e2fa71ec3be6a6a7a7"
 }
