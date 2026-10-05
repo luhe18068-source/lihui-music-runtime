@@ -1,3 +1,9 @@
+## NVIDIA 与声音输出修复（2026-10-05）
+
+已安装用户请退出软件，再下载运行 [小型修复包](https://github.com/luhe18068-source/lihui-music-runtime/releases/download/gpu-audio-fix-20261005/LihuiMusic-Repair-GPU-Audio-20261005b.exe)，选择原安装目录。新用户先安装下方完整软件，再运行修复包。不会重新下载或删除模型、环境与歌曲。GTX 1660 SUPER 等兼容 NVIDIA 显卡会优先使用 GPU；旧驱动或不支持架构会显示原因。
+
+---
+
 ## 里会音乐 1.3.0（2026-10-05）
 
 - [下载安装包](https://github.com/luhe18068-source/lihui-music-runtime/releases/tag/app-1.3.0-20261005-final)，约 192 MiB。
